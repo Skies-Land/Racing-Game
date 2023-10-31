@@ -8,3 +8,5 @@
 
 
 ▶ Faire une course [Racing Game](https://skies-land.github.io/Racing-Game/)
+
+![French Skies - Racing Game](https://github.com/Skies-Land/Racing-Game/assets/146822518/c9301988-577c-4eb6-845c-2b1dff0752b1)
